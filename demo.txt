@@ -1,2 +1,6 @@
 demo.txt
+<<<<<<< ours
 thuoc main
+=======
+thuoc demo1
+>>>>>>> theirs
